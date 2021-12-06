@@ -1,0 +1,317 @@
+[
+    {
+        "studentID": 1,
+        "studentName": "Cristina",
+        "studentLastname": "Rios",
+        "studentGrade": "9",
+        "courses": [
+            {
+                "courseID": 1,
+                "courseName": "Matematicas",
+                "courseTeacher": [
+                    {
+                        "teacherId": 1,
+                        "teacherName": "Juan",
+                        "teacherLastname": "Perez"
+                    }
+                ]
+            },
+            {
+                "courseID": 2,
+                "courseName": "Ingles",
+                "courseTeacher": [
+                    {
+                        "teacherId": 2,
+                        "teacherName": "Maria",
+                        "teacherLastname": "Gonzales"
+                    }
+                ]
+            },
+            {
+                "courseID": 3,
+                "courseName": "Lengua Castellana",
+                "courseTeacher": [
+                    {
+                        "teacherId": 3,
+                        "teacherName": "Javier",
+                        "teacherLastname": "Ramirez"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "studentID": 2,
+        "studentName": "Luis",
+        "studentLastname": "Ruiz",
+        "studentGrade": "11",
+        "courses": [
+            {
+                "courseID": 4,
+                "courseName": "Fisica",
+                "courseTeacher": [
+                    {
+                        "teacherId": 4,
+                        "teacherName": "Carlos",
+                        "teacherLastname": "Uribe"
+                    }
+                ]
+            },
+            {
+                "courseID": 1,
+                "courseName": "Matematicas",
+                "courseTeacher": [
+                    {
+                        "teacherId": 1,
+                        "teacherName": "Juan",
+                        "teacherLastname": "Perez"
+                    }
+                ]
+            },
+            {
+                "courseID": 2,
+                "courseName": "Ingles",
+                "courseTeacher": [
+                    {
+                        "teacherId": 2,
+                        "teacherName": "Maria",
+                        "teacherLastname": "Gonzales"
+                    }
+                ]
+            },
+            {
+                "courseID": 3,
+                "courseName": "Lengua Castellana",
+                "courseTeacher": [
+                    {
+                        "teacherId": 3,
+                        "teacherName": "Javier",
+                        "teacherLastname": "Ramirez"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "studentID": 3,
+        "studentName": "Jhon",
+        "studentLastname": "Marin",
+        "studentGrade": "11",
+        "courses": [
+            {
+                "courseID": 5,
+                "courseName": "Biologia",
+                "courseTeacher": [
+                    {
+                        "teacherId": 5,
+                        "teacherName": "Vanesa",
+                        "teacherLastname": "Barrera"
+                    }
+                ]
+            },
+            {
+                "courseID": 4,
+                "courseName": "Fisica",
+                "courseTeacher": [
+                    {
+                        "teacherId": 4,
+                        "teacherName": "Carlos",
+                        "teacherLastname": "Uribe"
+                    }
+                ]
+            },
+            {
+                "courseID": 1,
+                "courseName": "Matematicas",
+                "courseTeacher": [
+                    {
+                        "teacherId": 1,
+                        "teacherName": "Juan",
+                        "teacherLastname": "Perez"
+                    }
+                ]
+            },
+            {
+                "courseID": 2,
+                "courseName": "Ingles",
+                "courseTeacher": [
+                    {
+                        "teacherId": 2,
+                        "teacherName": "Maria",
+                        "teacherLastname": "Gonzales"
+                    }
+                ]
+            },
+            {
+                "courseID": 3,
+                "courseName": "Lengua Castellana",
+                "courseTeacher": [
+                    {
+                        "teacherId": 3,
+                        "teacherName": "Javier",
+                        "teacherLastname": "Ramirez"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "studentID": 4,
+        "studentName": "Karen",
+        "studentLastname": "Plata",
+        "studentGrade": "12",
+        "courses": [
+            {
+                "courseID": 6,
+                "courseName": "Arte",
+                "courseTeacher": [
+                    {
+                        "teacherId": 6,
+                        "teacherName": "Margarita",
+                        "teacherLastname": "Caramelo"
+                    }
+                ]
+            },
+            {
+                "courseID": 5,
+                "courseName": "Biologia",
+                "courseTeacher": [
+                    {
+                        "teacherId": 5,
+                        "teacherName": "Vanesa",
+                        "teacherLastname": "Barrera"
+                    }
+                ]
+            },
+            {
+                "courseID": 4,
+                "courseName": "Fisica",
+                "courseTeacher": [
+                    {
+                        "teacherId": 4,
+                        "teacherName": "Carlos",
+                        "teacherLastname": "Uribe"
+                    }
+                ]
+            },
+            {
+                "courseID": 1,
+                "courseName": "Matematicas",
+                "courseTeacher": [
+                    {
+                        "teacherId": 1,
+                        "teacherName": "Juan",
+                        "teacherLastname": "Perez"
+                    }
+                ]
+            },
+            {
+                "courseID": 2,
+                "courseName": "Ingles",
+                "courseTeacher": [
+                    {
+                        "teacherId": 2,
+                        "teacherName": "Maria",
+                        "teacherLastname": "Gonzales"
+                    }
+                ]
+            },
+            {
+                "courseID": 3,
+                "courseName": "Lengua Castellana",
+                "courseTeacher": [
+                    {
+                        "teacherId": 3,
+                        "teacherName": "Javier",
+                        "teacherLastname": "Ramirez"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "studentID": 5,
+        "studentName": "Miguel",
+        "studentLastname": "Aristizabal",
+        "studentGrade": "7",
+        "courses": [
+            {
+                "courseID": 7,
+                "courseName": "Educacion Fisica",
+                "courseTeacher": [
+                    {
+                        "teacherId": 7,
+                        "teacherName": "Martin",
+                        "teacherLastname": "Quintero"
+                    }
+                ]
+            },
+            {
+                "courseID": 6,
+                "courseName": "Arte",
+                "courseTeacher": [
+                    {
+                        "teacherId": 6,
+                        "teacherName": "Margarita",
+                        "teacherLastname": "Caramelo"
+                    }
+                ]
+            },
+            {
+                "courseID": 5,
+                "courseName": "Biologia",
+                "courseTeacher": [
+                    {
+                        "teacherId": 5,
+                        "teacherName": "Vanesa",
+                        "teacherLastname": "Barrera"
+                    }
+                ]
+            },
+            {
+                "courseID": 4,
+                "courseName": "Fisica",
+                "courseTeacher": [
+                    {
+                        "teacherId": 4,
+                        "teacherName": "Carlos",
+                        "teacherLastname": "Uribe"
+                    }
+                ]
+            },
+            {
+                "courseID": 1,
+                "courseName": "Matematicas",
+                "courseTeacher": [
+                    {
+                        "teacherId": 1,
+                        "teacherName": "Juan",
+                        "teacherLastname": "Perez"
+                    }
+                ]
+            },
+            {
+                "courseID": 2,
+                "courseName": "Ingles",
+                "courseTeacher": [
+                    {
+                        "teacherId": 2,
+                        "teacherName": "Maria",
+                        "teacherLastname": "Gonzales"
+                    }
+                ]
+            },
+            {
+                "courseID": 3,
+                "courseName": "Lengua Castellana",
+                "courseTeacher": [
+                    {
+                        "teacherId": 3,
+                        "teacherName": "Javier",
+                        "teacherLastname": "Ramirez"
+                    }
+                ]
+            }
+        ]
+    }
+]

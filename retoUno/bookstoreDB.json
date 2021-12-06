@@ -1,0 +1,47 @@
+[
+    {
+        "_id" : "1",
+        "title" : "Piense y hágase rico",
+        "price" : "$35USD",
+        "author" : "Napoleón Hill",
+        "category" : "Negocios e Inversiones",
+        "quantity" : "4"
+       
+    },
+    {
+        "_id" : "2",
+        "title" : "¿Quién se ha llevado mi queso?",
+        "price" : "$10USD",
+        "author" : "Spencer Johnson",
+        "category" : "Autoayuda",
+        "quantity" : "6"
+       
+    },
+    {
+        "_id" : "3",
+        "title" : "Los pilares de la Tierra",
+        "price" : "$12USD",
+        "author" : "Ken Follett",
+        "category" : "Novela histórica",
+        "quantity" : "2"
+       
+    },
+    {
+        "_id" : "4",
+        "title" : "El perfume",
+        "price" : "$15USD",
+        "author" : "Patrick Süskind",
+        "category" : "Misterio",
+        "quantity" : "5"
+       
+    },
+    {
+        "_id" : "5",
+        "title" : "Desde mi cielo",
+        "price" : "$20USD",
+        "author" : "Alice Sebold",
+        "category" : "Drama",
+        "quantity" : "2"
+       
+    }
+]
